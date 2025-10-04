@@ -1,0 +1,3360 @@
+[ 
+  [
+    {
+      "content": "AU TUNNEL",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": true
+    }
+  ],
+  [
+    {
+      "content": "Ce soir, pour une raison quelconque, tous les hommes qui attendent devant le Tunnel portent un smoking, à part un clochard entre deux âges, assis à côté d’une benne à ordures, à un mètre à peine de la file, tendant un gobelet en plastique à qui voudra bien lui prêter attention, quémandant un peu de monnaie, et comme Price nous fait contourner la foule, se dirigeant droit vers un des portiers, Van Patten lui agite sous le nez un billet de un dollar tout craquant, et le visage du mendiant s’illumine un bref instant, puis Van Patten rempoche le billet tandis que nous nous engouffrons dans la boîte où l’on nous donne une douzaine de tickets de boisson et deux laissez-passer de VIP pour le club privé. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "3",
+      "content": "Une fois entrés, nous sommes vaguement tourmentés par deux autres portiers — longs manteaux de laine, queue de cheval, des Allemands probablement — qui veulent absolument savoir pourquoi nous ne portons pas de smoking.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "4",
+      "content": " Price règle cependant le problème en douceur, soit en jouant de son influence, soit en graissant la patte des loufiats (ce qui est le plus probable).",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "100",
+        "6"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "5",
+      "content": " Me désintéressant de tout cela, je lui tourne le dos et essaie d’écouter McDermott qui explique à Van Patten que je suis dingue de critiquer les pizzas de Pastels, mais il est difficile de comprendre quoi que ce soit, avec la sono qui braille I Feel Free, la version de Belinda Carlisle.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "6",
+      "content": " J’ai un couteau à scie dans la poche de ma veste Valentino, et je suis un instant tenté d’éventrer McDermott, là, dans l’entrée de la boîte, ou de lui trancher le visage, peut-être, ou de lui disloquer la colonne vertébrale ; mais Price nous fait signe d’entrer, et la tentation de tuer McDermott est remplacée par cette singulière avidité à prendre du bon temps, boire du Champagne, flirter avec une mignonne, peut-être trouver un peu de dope, ou même danser sur des vieux tubes, ou sur cette dernière chanson de Janet Jackson, celle que j’aime tant.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "7",
+      "content": "Je me calme un peu tandis que nous pénétrons dans le hall, nous dirigeant vers l’entrée proprement dite.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "8",
+      "content": " Nous croisons trois créatures. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "9",
+      "content": "L’une porte une veste de laine noire à col échancré et boutonnage de côté, un pantalon de crêpe de laine et un col roulé de cashmere moulant, Oscar de la Renta ; ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "10",
+      "content": "l’autre porte un manteau croisé de laine, mohair et tweed synthétique, pour aller avec un pantalon genre jean et une chemise d’homme, en coton, Stephen Sprousse ; ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "11",
+      "content": "la troisième, la plus élégante, porte une veste de laine à carreaux et une jupe de laine à taille haute de chez Barney, sur un chemisier de soie Andra Gabrielle. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "12",
+      "content": "Elles nous repèrent très nettement et nous leur rendons la politesse en nous retournant sur elles — sauf Price, qui les ignore et lâche une grossièreté.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "13",
+      "content": "— Alors, Price, réveille-toi ! gémit McDermott. Qu’est-ce qui ne va pas ? Ces filles étaient vraiment au poil.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "14",
+      "content": "— Oui, si tu parles espingouin, dit Price, lui tendant deux tickets de boisson, comme pour l’apaiser.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "15",
+      "content": "— Quoi ? fait Van Patten. Je n’ai pas eu l’impression que c’étaient des Espagnoles.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "16",
+      "content": "— Tu sais, Price, il va falloir que tu changes d’attitude, si tu veux finir la soirée au pieu, dit McDermott.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "17",
+      "content": "— C’est toi qui me parles de finir la soirée au pieu ? Toi, qui as tout juste réussi à te faire branler, l’autre soir ? ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "18",
+      "content": "— Tu es parfaitement puant, Price, déclare McDermott.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "19",
+      "content": "— Écoutez, vous croyez peut-être que j’ai le même comportement qu’avec vous, les gars, quand je suis sur un coup ? demande Price d’un ton de défi.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "20",
+      "content": "— Ouais, le même, répondent d’une seule voix McDermott et Van Patten.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "21",
+      "content": "— Vous savez, dis-je, il arrive que l’on prenne une attitude contraire à ce que l’on ressent vraiment, quand il s’agit de sexe, les enfants. J’espère que je ne saccage pas ta candeur retrouvée, McDermott. Je presse le pas pour me maintenir à la hauteur de Tim.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "22",
+      "content": "— Non, mais cela n’explique pas pourquoi Tim se comporte comme un connard de première, dit McDermott, tentant de me rattraper.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "23",
+      "content": "— Comme si ces filles en avaient quelque chose à faire, ricane Price. Quand je leur dis combien je gagne par an, mon comportement n’a plus aucune importance, crois-moi.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "24",
+      "content": "— Et comment fais-tu passer l’information ? demande Van Patten. Tu dis : Tenez, prenez donc une Corona et, au fait, je me fais cent quatre-vingt mille par an, et vous, quel est votre signe ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "25",
+      "content": "— Cent quatre-vingt-dix, corrige Price. Ouais, c’est ce que je fais. La subtilité, ça n’est pas leur truc, à ces filles-là.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "26",
+      "content": "— Et c’est quoi, leur truc, ô grand sage ? demande McDermott, s’inclinant légèrement tout en marchant.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "27",
+      "content": "Cela fait rire Van Patten. Ils échangent une grande claque.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "28",
+      "content": "— Hé, dis-je, riant aussi, si tu le savais, tu ne poserais pas la question.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "29",
+      "content": "— Leur truc, c’est un type bien foutu, qui puisse les emmener au Cirque deux fois par semaine, et les faire entrer au Nell’s quand elles en ont envie. Éventuellement, leur faire rencontrer Donald Trump, dit Price d’un ton catégorique.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "30",
+      "content": "Nous tendons nos tickets à une fille potable, vêtue d’un duffle-coat de laine, avec un carré Hermès. Elle nous fait entrer et Price lui lance un clin d’œil, tandis que McDermott déclare : Dès que je mets les pieds dans cette boîte, je commence à m’angoisser, à propos des maladies. Il y a des nanas pourries, ici. Je le sens.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": true,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "4"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "31",
+      "content": "— Je t’ai déjà dit, espèce de cloche, que nous ne pouvons pas attraper ça, dit McDermott, répétant patiemment la leçon. Les probabilités sont du style zéro, virgule zéro, zéro, zéro...",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "32",
+      "content": "Par chance, sa voix se perd dans la version longue de New Sensation, de INXS. La musique est si forte qu’on est obligé de hurler pour se faire entendre. ",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "100",
+        "2"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "33",
+      "content": "La boîte est plutôt bondée ; la seule véritable lumière émane du sol, par saccades. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "34",
+      "content": "Tout le monde est en smoking.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "35",
+      "content": "Tout le monde boit du Champagne. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "36",
+      "content": "Comme nous n’avons que deux laissez-passer VIP pour le club privé, Price les fourre dans la main de McDermott et de Van Patten, qui s’empressent de faire signe au type posté en haut de l’escalier. Il les fait entrer. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "37",
+      "content": "Il porte un smoking croisé en laine, une chemise à col cassé en coton Cerruti 1881, et un nœud papillon de soie à damier noir et blanc de chez Martin Dingman Neckwear.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "38",
+      "content": "— Hé, fais-je, pourquoi ne les avons-nous pas gardés pour nous ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "39",
+      "content": "— Parce que nous, répond-il en hurlant lui aussi pour couvrir le bruit de la musique, il faut qu’on trouve de la Poudre Miraculeuse de Bolivie…",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "40",
+      "content": "Je le suis tandis qu’il s’engouffre dans l’étroit corridor qui longe la piste de danse, puis au travers du bar, et enfin dans le Chandelier Room, où pullulent les types de chez Drexel, de chez Lehman, de Kidder Peabody, de la First Boston, de Morgan Stanley, de Rothschild, de chez Goldman, et même de Citybank, nom de Dieu, tous en smoking, tenant tous à la main une flûte de Champagne, et sans le moindre effort, comme si c’était la même chanson, New Sensation s’infiltre dans The Devil Inside et Price aperçoit Ted Madison, appuyé contre la rambarde, au fond de la pièce, vêtu d’un smoking croisé en laine, d’une chemise à col cassé Paul Smith, avec un nœud papillon et une ceinture de smoking de chez Rainbow Neckwear, des boutons de manchette Trianon en diamant, des escarpins de cuir et gros-grain Ferragamo, et une montre ancienne, Hamilton, de chez Saks ; ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": true,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "50",
+        "3"
+      ],
+      "endVolume": [
+        "0",
+        "3"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "41",
+      "content": "derrière Madison, s’enfonçant dans la pénombre, les deux rails de chemin de fer, ce soir violemment illuminés de vert cru et de rose. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "42",
+      "content": "Price s’arrête tout à coup, regarde au loin, derrière Ted, qui sourit en apercevant Timothy, tandis que Price contemple les rails d’un air rêveur, comme s’ils représentaient une sorte de liberté, comme s’ils incarnaient une fuite possible, l’évasion qu’il recherche, mais je lui crie :",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "43",
+      "content": " « Hé, voilà Teddy ! », et il se reprend, secoue la tête comme pour reprendre ses esprits, reporte son regard sur Madison et s’écrie d’un ton sans réplique : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "44",
+      "content": "« Non, ça n’est pas Madison, pour l’amour de Dieu, c’est Turnball ! », tandis que celui que je pensais être Madison est salué par deux autres types en smoking et nous tourne le dos, et que soudain, derrière Price, surgit Ebersol qui lui passe un bras autour du cou et feint de l’étrangler, mais Price repousse son bras, et lui serre la main en disant : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "45",
+      "content": "Salut, Madison.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "46",
+      "content": "Madison, que je pensais être Ebersol, porte une magnifique veste croisée Hackett of London en lin blanc, de chez Bergdorf Goodman. D’une main, il tient un cigare non allumé, et de l’autre, une coupe de Champagne à moitié pleine.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "47",
+      "content": "— Mr. Price ! crie Madison. Quel plaisir de vous rencontrer, cher ami.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "48",
+      "content": "— Madison, crie Price en retour, on a besoin de tes services.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "49",
+      "content": "— Pourquoi, vous cherchez les ennuis ? fait Madison, souriant.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "50",
+      "content": "— Quelque chose de plus... urgent, crie Price. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "51",
+      "content": "— Bien sûr, crie Madison, puis, je ne sais pourquoi, il me fait un petit signe de tête cordial et me crie : Bateman, superbe, ton bronzage. Du moins c’est ce que je crois comprendre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "52",
+      "content": "Derrière Madison se tient un type qui ressemble beaucoup à Ted Dreyer. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "53",
+      "content": "Il porte un smoking croisé à col-châle, une chemise de coton et un nœud papillon écossais, Polo par Ralph Lauren, j’en suis à peu près certain. Madison reste là, à saluer diverses têtes qui passent parmi la foule.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "54",
+      "content": "Price finit par perdre patience. « Écoute, on cherche de la dope », crie-t-il, du moins c’est ce que je crois comprendre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "55",
+      "content": "— Du calme, Price, du calme, crie Madison. Je vais voir avec Ricardo.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "56",
+      "content": "Mais il reste là, saluant les têtes qui se pressent dans la cohue.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "57",
+      "content": "— Pourquoi pas tout de suite ? hurle Price. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "58",
+      "content": "— Pourquoi ne portes-tu pas de smoking ? crie Madison.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "59",
+      "content": "— On en prend combien ? me demande Price, éperdu.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "60",
+      "content": "— Un gramme, ce sera bien. Il faut que je sois au bureau tôt, demain.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "61",
+      "content": "— Tu as du liquide ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "62",
+      "content": "Incapable de mentir, je fais un signe de tête et lui tends quarante dollars.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "63",
+      "content": "— Un gramme ! crie Price à Ted. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "64",
+      "content": "— Tenez, dit Madison, nous présentant son ami, je vous présente Il y a.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "65",
+      "content": "— Un gramme, fait Price, fourrant l’argent dans la main de Madison. Il y a ? Il y a quoi ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "66",
+      "content": "Madison et Il y a sourient, et Ted lance un nom qui m’échappe,",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "67",
+      "content": "— Non, crie Madison, Illya ! C’est du moins ce que je crois comprendre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "68",
+      "content": "— Ah, ouais. Enchanté, Illya. Price lève le poignet, tapote sa Rolex en or de l’index.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "69",
+      "content": "— Je reviens tout de suite, crie Madison. Tenez compagnie à mon ami, Buvez un verre. Il disparaît. Illya, il y a, qui que ce soit, se fond dans la cohue. Je suis Price jusqu’à la rambarde du fond.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "70",
+      "content": "Je voudrais allumer mon cigare, mais je n’ai pas d’allumettes ; cependant, le simple fait de le tenir, de jouir de son parfum, tout en sachant que la drogue va arriver, me fait du bien, et je demande deux tickets à Price pour lui offrir une Finlandia on the rocks. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "71",
+      "content": "Pas de Finlandia, me fait savoir la mignonne derrière le bar, l’air mauvais, mais elle est tellement bien roulée, elle a l’air si chaude, que je lui laisserai un gros pourboire malgré tout. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "72",
+      "content": "Je me décide pour une Absolut pour Price, et un J&B on the rocks pour moi. Je songe un moment à lui apporter un bellini, pour plaisanter, mais ce soir, il paraît beaucoup trop sur les nerfs pour apprécier, et je le rejoins péniblement dans la cohue et lui tends son Absolut, qu’il prend sans un mot de remerciement et vide d’un trait. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "73",
+      "content": "Il regarde le verre, fait la grimace, et me jette un regard accusateur. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "74",
+      "content": "Je hausse les épaules. Il se remet à contempler les rails de chemin de fer, comme fasciné. Les filles sont rares au Tunnel, ce soir.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "75",
+      "content": "— Je sors avec Courtney, demain soir, dis-je. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "76",
+      "content": "— Avec Courtney ? fait-il. Super. Malgré le bruit, je perçois le sarcasme.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "77",
+      "content": "— Eh alors, pourquoi pas ? Carruthers n’est pas en ville,",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "78",
+      "content": "— Autant louer une fille dans une agence d’escortes, crie-t-il d’une voix mordante, l’air ailleurs.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "79",
+      "content": "— Pourquoi ? ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "80",
+      "content": "— Parce que cela va te coûter beaucoup plus cher pour tirer un coup.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "81",
+      "content": "— Pas question ! ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "82",
+      "content": "— Écoute, moi aussi, j’en passe par là, crie Price, agitant doucement son verre. Les glaçons tintent avec un bruit qui me surprend. « Meredith est pareille. Elle s’attend à ce qu’on paye. Elles sont toutes pareilles. »",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "83",
+      "content": "— Price ? Je bois une grande gorgée de scotch. Tu es irremplaçable. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "84",
+      "content": "Il fait un geste derrière lui. « Où vont ces rails ? » Des lasers commencent à fulgurer.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "85",
+      "content": "— Je ne sais pas, dis-je au bout d’un long, long moment. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "86",
+      "content": "J’en ai assez de regarder Price qui ne bouge pas, ne dit rien. Quand par hasard il se détourne des rails, c’est pour chercher des yeux Madison ou Ricardo. Pas une seule femme. Une armée de types de Wall Street en smoking. Si, une femme : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "87",
+      "content": "elle danse toute seule dans un coin, sur une chanson — Love Triangle, je crois. Elle porte ce qui me semble être un débardeur pailleté Ronaldus Shamask, et je tente de fixer mon attention sur elle, mais je suis dans cet état d’excitation qui précède l’arrivée de la coke, et je me mets à mordiller nerveusement un ticket de boisson, tandis qu’un type de Wall Street, qui ressemble à Boris Cunningham, s’interpose entre la fille et moi, me bouchant la vue. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "88",
+      "content": "Je suis sur le point de filer au bar quand Madison réapparaît — il a mis vingt minutes —, reniflant bruyamment et, avec un grand sourire crispé, figé, serre la main de Price qui, en sueur, l’air tendu, s’éloigne si vite que lorsque Ted fait mine de lui donner une grande claque amicale dans le dos, sa main ne rencontre que le vide.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "89",
+      "content": "Je suis Price, traversant le bar, la piste de danse du sous-sol puis, à l’étage, le long couloir où s’alignent les lavabos pour dames, ce qui paraît curieux, puisqu’il n’y a pas de femme dans la boîte, ce soir, et une fois dans les lavabos des hommes, qui sont déserts, Price et moi nous glissons ensemble dans un des compartiments. Il verrouille la porte.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": true,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "3"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "90",
+      "content": "— Je tremble, dit Price, me tendant la petite enveloppe. Ouvre-la.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "91",
+      "content": "Je la prends et défais avec précaution les bords du petit paquet blanc, exposant le prétendu gramme — on dirait qu’il y en a moins — à la lumière fluorescente des lavabos.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "92",
+      "content": "— Eh bien, murmure Price d’une voix étonnamment douce, ça ne fait pas lourd, n’est-ce pas ? Il se penche pour examiner la poudre. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "93",
+      "content": "— C’est peut-être la lumière qui fait ça, dis-je. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "94",
+      "content": "— Qu’est-ce qu’il branle, ce Ricardo ? fait Price, le regard rivé sur la coke.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "95",
+      "content": "— Ccchhhht... Je sors ma carte American Express platine. Allons-y, dis-je.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "96",
+      "content": "— Il la vend au milligramme, ou quoi ? demande Price. Il trempe le bord de sa carte dans la poudre et la porte à son nez, inspire. Il demeure un instant silencieux. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "97",
+      "content": "« La vache », fait-il enfin d’une voix entrecoupée, caverneuse.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "98",
+      "content": "— Qu’est-ce qu’il y a ? ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "99",
+      "content": "— C’est un milligramme de... saccharine, dit-il, le souffle court.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "100",
+      "content": "J’en prends aussi, et arrive à la même conclusion. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "101",
+      "content": "— Elle est légère, c’est sûr, mais je crois qu’en en prenant assez, ça ira... Mais Price est furieux. Son visage est rouge, il est en sueur ; il se met à crier comme si c’était ma faute, comme si c’était moi qui avais voulu acheter de la poudre à Madison.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "102",
+      "content": "— Je veux me défoncer avec ça, Bateman, dit-il lentement, haussant le ton, et non pas m’en servir pour sucrer mon café !",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "103",
+      "content": "— C’est vrai, tu peux toujours essayer dans ton café au lait, fait une voix efféminée, dans le compartiment voisin.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "104",
+      "content": "Price me regarde, les yeux ronds, incrédule, puis, pris de rage, il se détourne et donne un grand coup de poing dans la cloison.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "105",
+      "content": "— Calme-toi, dis-je. On s’en fiche, on y va. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "106",
+      "content": "Price se retourne vers moi, passe une main sur ses cheveux cartonnés, plaqués en arrière, et semble se détendre. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "107",
+      "content": "« Tu as sans doute raison. Enfin, ajoute-t-il, élevant la voix, si le pédé d’à côté n’y voit rien à redire. »",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "108",
+      "content": "Nous attendons un quelconque signe de vie. Enfin, la voix susurre : Pas de problème...",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "109",
+      "content": "— Va te faire enculer ! rugit Price. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "110",
+      "content": "— Va te faire enculer, répète la voix. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "111",
+      "content": "— Non, toi, va te faire enculer, hurle Price, essayant d’escalader la cloison d’aluminium, mais d’une main je le retiens, et à côté la chasse d’eau se fait entendre, tandis que l’inconnu sort des lavabos, de toute évidence très énervé. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "112",
+      "content": "Price se laisse aller contre la porte de notre compartiment et me regarde fixement, accablé. Il passe une main tremblante sur son visage cramoisi, les paupières serrées, les lèvres blanches, avec d’infimes traces de cocaïne sous une narine, puis déclare calmement, les yeux toujours fermés : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "113",
+      "content": "Très bien. Allons-y. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "114",
+      "content": "— Bien. C’est pour ça que nous sommes là, dis-je. À tour de rôle, nous trempons nos cartes dans l’enveloppe puis, quand il n’y a plus assez de poudre, le bout de nos doigts, que nous reniflons, léchons, frottons sur nos gencives. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "115",
+      "content": "Je suis loin, très loin d’être défoncé, mais un J&B supplémentaire pourra peut-être donner l’illusion du coup de fouet espéré, si léger soit-il.",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "17",
+        "1"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "116",
+      "content": "En sortant du compartiment, nous nous lavons les mains, examinant notre reflet dans le miroir et, une fois satisfaits, retournons au Chandelier Room. ",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "50",
+        ""
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "117",
+      "content": "Je commence à regretter de ne pas avoir laissé mon pardessus (Armani) au vestiaire, mais quoi qu’en dise Price, je me sens assez euphorique, et bientôt, tandis que je me tiens au bar, essayant d’attirer l’attention de la mignonne, cela cesse d’avoir la moindre importance. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "118",
+      "content": "Bien qu’il me reste une quantité de tickets, je finis par poser un billet de vingt sur le comptoir, espérant qu’elle daignera m’apercevoir. Cela marche. Comptant sur mes tickets de boisson, je commande deux doubles Stoli on the rocks. Elle les verse devant moi.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "119",
+      "content": "Je me sens bien maintenant, et je lui crie : Hé, vous n’allez pas à la New York University ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "120",
+      "content": "Elle secoue la tête, sans sourire.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "121",
+      "content": "Je crie : À Hunter ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "122",
+      "content": "Derechef, elle secoue la tête. Pas Hunter non plus. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "123",
+      "content": "Je crie : Columbia ? — mais c’est une plaisanterie. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "124",
+      "content": "Elle fixe son attention sur la bouteille de Stoli. Je décide de ne pas prolonger la conversation, et plaque les tickets sur le comptoir, tandis qu’elle pose les deux verres devant moi. Mais elle secoue la tête, et crie : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "125",
+      "content": "« Il est plus de onze heures. On ne les prend plus. Il faut payer en liquide. Ça fera vingt-cinq dollars. »",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "126",
+      "content": " Sans protester, l’air totalement détaché, je tire mon portefeuille en peau de gazelle et lui tends un billet de cinquante qu’elle regarde avec dédain, j’en jurerais, et, soupirant, se tourne vers la caisse pour me rendre la monnaie. Sans la quitter des yeux, je dis très clairement (mais ma voix se perd dans Pump up the Volume et dans le bruit de la foule) : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "127",
+      "content": "« Tu es une immonde salope et je voudrais te crever la peau et faire joujou avec ton sang. » Je souris néanmoins. Je ne laisse pas de pourboire à cette connasse, et retrouve Price, qui a rejoint la rambarde et demeure là, morose, les mains agrippées aux barres d’acier. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "128",
+      "content": "Paul Owen, qui gère le portefeuille Fisher, et porte un smoking de laine croisé à six boutons, se tient près de lui, criant : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "129",
+      "content": "« J’ai compté cinq cents actions de retrait d’escompte sur un PC ICM... pris un taxi pour aller chez Smith et Wollensky. » C’est du moins ce que je crois comprendre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "130",
+      "content": "Je tends le verre à Price, adresse un signe de tête à Paul. Price ne dit rien, pas même merci. Il se contente de prendre le verre, sans quitter les rails des yeux, l’air sombre, puis, avec un regard de biais, baisse la tête sur son verre ; comme les éclats de lumière recommencent à fulgurer, il se redresse et murmure quelque chose pour lui-même.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "131",
+      "content": "— Tu n’es pas défoncé ? dis-je. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "132",
+      "content": "— Comment ça va ? me crie Owen. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "133",
+      "content": "— On ne peut mieux, dis-je. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "134",
+      "content": "La musique n’est qu’une suite de chansons interminables, qui se recouvrent les unes les autres, chaque morceau lié au suivant par le martèlement incessant du rythme. Toute conversation est impossible ce qui, quand je dois parler avec un rat comme Owen, me convient parfaitement. À présent, on dirait qu’il y a un peu plus de filles dans le Chandelier Room, et j’essaie de croiser le regard de l’une d’elles — le genre mannequin, avec de gros nénés. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "135",
+      "content": "Price me pousse du coude, et je me penche pour lui demander si nous n’en prendrions pas un autre gramme, éventuellement.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "136",
+      "content": "— Pourquoi ne portes-tu pas de smoking ? fait la voix de Owen, dans mon dos.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "137",
+      "content": "— Je laisse tomber, crie Price, je fous le camp. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "138",
+      "content": "— Tu laisses tomber quoi ? fais-je sur le même ton, ahuri.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "139",
+      "content": "— Ça ! crie-t-il, faisant allusion à sa double Stoli, c’est du moins ce que je crois comprendre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "140",
+      "content": "— Arrête, je la boirai. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "141",
+      "content": "— Écoute, Patrick, hurle-t-il, je pars. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "142",
+      "content": "— Où ? (Je n’y comprends vraiment rien.) Tu veux que je trouve Ricardo ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "143",
+      "content": "— Je pars, crie-t-il. Je... pars !",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "144",
+      "content": "Je me mets à rire, sans comprendre ce qu’il veut dire. « Mais où veux-tu aller ? »",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "145",
+      "content": "— Ailleurs ! ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "146",
+      "content": "— Arrête ! Tu veux entrer dans une banque d’affaires ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "147",
+      "content": "— Non, Bateman. Je suis sérieux, espèce d’abruti. Je pars. Je disparais.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "148",
+      "content": "— Mais où ? Je ne comprends rien, je ris, je crie : chez Morgan Stanley ? En recyclage ? Quoi ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "149",
+      "content": "Il détourne les yeux sans répondre, continue de regarder fixement au-delà des rails, essayant d’apercevoir le point ou ils s’arrêtent, ce qui se dissimule par-delà l’obscurité. Il devient pénible, mais Owen me semble pire encore, et j’ai déjà croisé accidentellement son regard de rat.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "150",
+      "content": "— Dis-lui de ne pas s’inquiéter, que tout baigne, crie Owen.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "151",
+      "content": "— Tu t’occupes toujours du portefeuille Fisher ? Que lui dire d’autre ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "152",
+      "content": "— Quoi ? fait Owen. Attends, ça n’est pas Conrad ? ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": true,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "3"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "153",
+      "content": "Il désigne un type debout près du bar, exactement sous le lustre, vêtu d’un smoking non croisé, à col châle, chemise de coton et nœud papillon, Pierre Cardin, tenant à la main une coupe de Champagne et en train d’examiner ses ongles. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "154",
+      "content": "Owen sort un cigare et demande du feu. Comme je m’ennuie, je me dirige vers le bar sans m’excuser, et dis à la mignonne qu’il me faudrait juste des allumettes. Le Chandelier Room est bondé. Tout le monde semble se connaître, et tout le monde ressemble à tout le monde. ",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "50",
+        "3"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "155",
+      "content": "La fumée des cigares flotte en une nappe épaisse, et la musique, INXS de nouveau, hurle plus que jamais, on ne sait pas où cela va s’arrêter. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "156",
+      "content": "Je touche mon front par mégarde, et mes doigts sont mouillés. Je prends des allumettes au bar. En revenant, je me heurte dans la foule à McDermott et Van Patten, qui commencent à me tanner pour que je leur donne des tickets de bar. Sachant qu’ils ne sont plus valables, je les leur tends, mais nous sommes bloqués ensemble au milieu de la salle, et les tickets ne suffisent pas à les persuader d’affronter la dangereuse expédition jusqu’au bar.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "157",
+      "content": "— Pourries, ces nanas, dit Van Patten. Attention, pas touche.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "158",
+      "content": "— C’est infect, au sous-sol, crie McDermott. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "159",
+      "content": "— Vous avez trouvé de la dope ? crie Van Patten. On a vu Ricardo.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "160",
+      "content": "— Non. Rien du tout. Madison n’a rien trouvé. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "161",
+      "content": "— Service ! Service, attention ! crie un type derrière moi.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "162",
+      "content": "— Pas la peine. Je n’entends rien. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "163",
+      "content": "— Quoi ? crie Van Patten. Je n’entends rien ! ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": true,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "3"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "164",
+      "content": "Tout à coup, McDermott me saisit par le bras : Mais qu’est-ce qu’il fait, cet enfoiré de Price ? Regarde.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "165",
+      "content": "Comme dans un film, je me retourne péniblement, et me dresse sur la pointe des pieds, pour apercevoir Price, debout en équilibre sur la rambarde. ",
+      "speed": "10",
+      "musicStart": true,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "50",
+        "3"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "166",
+      "content": "Quelqu’un lui a tendu une flûte de Champagne et, ivre ou défoncé, il tend les bras, les yeux fermés, comme s’il bénissait la foule. Derrière lui, les flashes de lumière éclatent et s’éteignent, encore et encore, et le fumigène, déchaîné, l’enveloppe d’un flot de fumée grise. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "167",
+      "content": "Il crie quelque chose que je ne comprends pas — la salle est bondée au-delà du possible, le vacarme assourdissant, un mélange de Party All the Time par Eddie Murphy et de conversations incessantes — et je me fraie un passage, les yeux rivés sur Price, réussissant à dépasser Madison et Illya et Turnball et Cunningham, et quelques autres.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "168",
+      "content": "Mais la foule est trop dense, ce n’est même pas la peine d’essayer. Seuls quelques visages se tournent vers Tim, toujours en équilibre sur la rambarde, les yeux mi-clos, criant quelque chose. Gêné, je suis soudain content d’être bloqué par la foule, incapable de l’atteindre, de le sauver d’une humiliation presque certaine, et dans une seconde de silence parfaitement programmée, j’entends la voix de Price : ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "169",
+      "content": "« Adieu ! » La foule lève enfin les yeux. « Têtes de nœuds ! » Puis il se détourne avec grâce, saute sur les rails et se met à courir, secouant la flûte de Champagne qu’il tient contre son flanc. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "170",
+      "content": "Il trébuche une fois, ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "171",
+      "content": "deux fois, paraissant bouger lentement dans l’éclat des stroboscopes, mais parvient à reprendre pied, avant de disparaître dans l’obscurité. Un type de la sécurité demeure tranquillement appuyé à la rambarde, tandis que Price s’éloigne dans le noir. Je crois qu’il secoue vaguement la tête.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "172",
+      "content": "— Price, reviens ! J’ai crié, mais la foule, elle, applaudit l’exploit. « Price ! » Je crie de nouveau, au-delà des bravos. Mais il est parti, et il y a peu de chances pour que, même s’il m’entendait, cela change quoi que ce soit. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "173",
+      "content": "Madison est à côté de moi. Il me tend la main, comme pour me féliciter : C’est vraiment un drôle de numéro.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": true,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "5"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "174",
+      "content": "McDermott arrive derrière moi. Il me tire par l’épaule. « Price connaît-il un club privé que nous ne connaissons pas ? » demande-t-il, inquiet.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ],
+  [
+    {
+      "id": "175",
+      "content": "Nous sommes dehors, à présent, et je suis défoncé, mais très fatigué, et, curieusement, j’ai un goût de NutraSweet dans la bouche, même après deux autres Stoli et un demi J&B. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "176",
+      "content": "Minuit et demi. Nous observons les limousines qui tentent de tourner à gauche vers la West Side Highway. Van Patten, McDermott et moi discutons l’éventualité de chercher cette nouvelle boîte appelée Nekenieh. Je ne suis pas vraiment défoncé. Un peu ivre, plutôt.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "177",
+      "content": "Moi : On déjeune ensemble ? Demain ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "178",
+      "content": "McDermott : Impossible. Rendez-vous chez le coiffeur de l’hôtel Pierre.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "179",
+      "content": "Van Patten : Négatif. Moi, c’est chez Gio. Manucure. ",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "180",
+      "content": "Moi, examinant ma main : Ça me fait penser qu’il faut aussi que j‘y aille.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "181",
+      "content": "McDermott : Pour dîner ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "182",
+      "content": "Moi : J’ai un rancard. Merde.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "183",
+      "content": "McDermott, à Van Patten : Et toi ?",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "184",
+      "content": "Van Patten : Impossible. Je dois aller chez Sunmakers. Et après, musculation.",
+      "speed": "10",
+      "musicStart": false,
+      "musicNext": false,
+      "musicEnd": false,
+      "startVolume": [
+        "0",
+        "0",
+        "0"
+      ],
+      "endVolume": [
+        "0",
+        "0"
+      ],
+      "chapter": false
+    }
+  ]
+]

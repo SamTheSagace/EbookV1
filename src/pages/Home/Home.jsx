@@ -3,7 +3,7 @@ import Textanim from '../../components/Textanim/Textanim'
 import Next from '../../components/Next/Next';
 import { useEffect, } from 'react';
 import Volume from '../../components/Volume/Volume';
-import test2 from '../../../../Writer/src/data/test.json';
+import test2 from '../../data/final.json';
 import useAnimation from '../../Hooks/useAnimation';
 import useAudio from '../../Hooks/useAudio';
 
