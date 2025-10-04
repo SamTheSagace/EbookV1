@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-    <BrowserRouter>
+    <BrowserRouter
+      basename={import.meta.env.DEV ? '/' : '/EbookV1/'}
+    >
     <Routes>
     <Route index element={<Home />} />
     <Route path="*" element={<div> 404</div>}/>
