@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 
 export default function useAudio() {
     const [intVolume, setIntVolume] = useState(50);    
-    const [fullVolume, setFullVolume] = useState(100);
+    const [fullVolume, setFullVolume] = useState(25);
     const [currentSong, setCurrentSong] = useState(1);
     const audioRef = useRef(new Audio(`src/assets/music/${currentSong}.mp3`));
     const interval = useRef(null);

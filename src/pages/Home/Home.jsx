@@ -9,7 +9,7 @@ import useAudio from '../../Hooks/useAudio';
 
 function Home(){
     const { isAnimating, currentIndex, currentPage, setIsAnimating, nextPage, start, stop } = useAnimation(test2);
-    const { audioRef, intVolume, fullVolume, currentSong, setFullVolume, setIntVolume, playMusic, stopMusic, changeMusic, setCurrentSong } = useAudio();
+    const { audioRef, fullVolume, currentSong, setFullVolume, playMusic, stopMusic, changeMusic } = useAudio();
 
     const transformText = (textContent)=>{
         return textContent.split(" ").map((word) => {
@@ -52,8 +52,8 @@ function Home(){
                 <p>menu</p>
                 <audio ref={audioRef} id="audio" src={`src/assets/music/${currentSong}.mp3`}></audio>
                 <Volume fullVolume={fullVolume} setFullVolume={setFullVolume}/>
-                <p>{Math.round(intVolume)}</p>
-                <p>{isAnimating ? "true": "false"}</p>
+                {/* <p>{Math.round(intVolume)}</p>
+                <p>{isAnimating ? "true": "false"}</p> */}
             </div>
             <div className='textBody'> 
             <Next onCheck={nextPage}/>                   
