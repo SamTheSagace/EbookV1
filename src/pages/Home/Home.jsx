@@ -7,11 +7,18 @@ import test2 from '../../data/final.json';
 import useAnimation from '../../Hooks/useAnimation';
 import useAudio from '../../Hooks/useAudio';
 import cat from '../../assets/images/cat.png';
+import song1 from '../../assets/music/song1.mp3';
+import song2 from '../../assets/music/song2.mp3';
+import song3 from '../../assets/music/song3.mp3';
+import song4 from '../../assets/music/song4.mp3';
+import song5 from '../../assets/music/song5.mp3';
+import song6 from '../../assets/music/song6.mp3';
+import song7 from '../../assets/music/song7.mp3';
 
 function Home() {
   const { isAnimating, currentIndex, currentPage, setIsAnimating, nextPage, start, stop } = useAnimation(test2);
   const { audioRef, fullVolume, currentSong, setFullVolume, playMusic, stopMusic, changeMusic } = useAudio();
-  const songs = ['/music/song1.mp3', '/music/song2.mp3', '/music/song3.mp3', '/music/song4.mp3', '/music/song5.mp3', '/music/song6.mp3', '/music/song7.mp3'];
+  const songs = [song1, song2, song3, song4, song5, song6, song7];
 
   const transformText = textContent => {
     return textContent
@@ -54,7 +61,7 @@ function Home() {
       <div className="bodyMain">
         <div className="menu">
           <p>menu</p>
-          <audio ref={audioRef} id="audio" src={songs[currentSong - 1]}></audio>
+          <audio ref={audioRef} id="audio" src={songs[currentSong]}></audio>
           <Volume fullVolume={fullVolume} setFullVolume={setFullVolume} />
           {/* <p>{Math.round(intVolume)}</p>
                 <p>{isAnimating ? "true": "false"}</p> */}
