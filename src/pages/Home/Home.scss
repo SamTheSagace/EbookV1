@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
 body{
     all: unset;
     span{
         color: white;
     }
     .bodyMain{
+        font-family: "EB Garamond", serif;
         background-color: black;
         display: flex;
         justify-content: center;
@@ -41,7 +44,8 @@ body{
                 text-align: center;
                 height: 80%;
                 .chapter{
-                font-size: 2em;
+                font-size: 1.8em;
+                font-weight: 500;
                 position: relative;
                 display: inline-block;
                 max-height: fit-content;
