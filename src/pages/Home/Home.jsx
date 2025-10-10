@@ -18,7 +18,7 @@ import song7 from '../../assets/music/song7.mp3';
 function Home() {
   const { isAnimating, currentIndex, currentPage, setIsAnimating, nextPage, start, stop } = useAnimation(test2);
   const { audioRef, fullVolume, currentSong, setFullVolume, playMusic, stopMusic, changeMusic } = useAudio();
-  const songs = [song1, song2, song3, song4, song5, song6, song7];
+  const songs = ['/music/song1.mp3', '/music/song2.mp3', '/music/song3.mp3', '/music/song4.mp3', '/music/song5.mp3', '/music/song6.mp3', '/music/song7.mp3'];
 
   const transformText = textContent => {
     return textContent
