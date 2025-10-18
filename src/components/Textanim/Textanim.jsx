@@ -30,9 +30,7 @@ function Textanim({
     const blocText = document.getElementById(`paragraph${id}`);
     blocText.innerHTML = '';
     if (isAnimating && !interval.current) {
-      console.log('start', isCurrent, index, textArray);
-      // console.log("textArray", textArray)
-      // console.log("limit", limit)
+      // console.log('start', isCurrent, index, textArray);)
       if (isCurrent) {
         //look for the music state
         if (musicStart) {
@@ -46,7 +44,6 @@ function Textanim({
         }
         if (!initialized.current) {
           initialized.current = true;
-          // console.log(index)
           interval.current = setInterval(() => {
             setIndex(prevIndex => {
               if (!isAnimating) {
@@ -60,7 +57,7 @@ function Textanim({
                 blocText.innerHTML += textArray[prevIndex];
               }
               if (nextIndex >= limit) {
-                console.log('finished');
+                // console.log('finished');
                 setIndex(0);
                 clearInterval(interval.current);
                 interval.current = null;
@@ -84,7 +81,7 @@ function Textanim({
     }
     return () => {
       if (interval.current) {
-        console.log('clearing interval');
+        // console.log('clearing interval');
         initialized.current = false;
         clearInterval(interval.current);
         interval.current = null;

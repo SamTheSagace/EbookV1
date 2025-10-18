@@ -31,19 +31,18 @@ export default function useAudio() {
     }, [intVolume, fullVolume]);
 
     const playMusic = (startVolume) => {
-        console.log("start")
         if (audioRef.current) {
             let startingVolume = Number(startVolume[0])
             let targetVolume = Number(startVolume[1])
             let timeVolume = Number(startVolume[2])*1000
-            console.log(timeVolume)
+            // console.log(audioRef.current.src);
+            // console.log(audioRef.current.canPlayType('audio/mpeg'));
             startTransition(startingVolume, targetVolume, timeVolume, setIntVolume);
             setTimeout(() => audioRef.current.play(), 1);
         }
     };
 
     const stopMusic = (endVolume) => {
-        console.log("stop")
         const stopChange = ()=>{
             setCurrentSong((c) => c+1);
             audioRef.current.pause()
@@ -52,8 +51,8 @@ export default function useAudio() {
             let startingVolume = Number(intVolume)
             let targetVolume = Number(endVolume[0])
             let timeVolume = Number(endVolume[1])*1000
-            console.log(startingVolume)
-            console.log(timeVolume)
+            // console.log(startingVolume)
+            // console.log(timeVolume)
             startTransition(startingVolume, targetVolume, timeVolume, setIntVolume);
             setTimeout(() => stopChange(), timeVolume);
         }

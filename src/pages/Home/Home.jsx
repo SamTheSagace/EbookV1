@@ -7,18 +7,19 @@ import test2 from '../../data/final.json';
 import useAnimation from '../../Hooks/useAnimation';
 import useAudio from '../../Hooks/useAudio';
 import cat from '../../assets/images/cat.png';
-import song1 from '../../assets/music/song1.mp3';
-import song2 from '../../assets/music/song2.mp3';
-import song3 from '../../assets/music/song3.mp3';
-import song4 from '../../assets/music/song4.mp3';
-import song5 from '../../assets/music/song5.mp3';
-import song6 from '../../assets/music/song6.mp3';
-import song7 from '../../assets/music/song7.mp3';
 
 function Home() {
   const { isAnimating, currentIndex, currentPage, setIsAnimating, nextPage, start, stop } = useAnimation(test2);
   const { audioRef, fullVolume, currentSong, setFullVolume, playMusic, stopMusic, changeMusic } = useAudio();
-  const songs = [song1, song2, song3, song4, song5, song6, song7];
+  const songsUrl = [
+    'https://dl.dropboxusercontent.com/scl/fi/bxi4ytqf9z0732ndvjig5/1-I-Feel-Free-instru.mp4?rlkey=0ruawpkgu4oajlwrnan3wrdyd&st=sjvm6vah&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/mf97qjbrbbt389t02m3j1/2-INXS-new-sensation-instru.mp3?rlkey=7kdm2g8pfa7v0zoqw6u42oqen&st=dr2po6gx&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/u7pwopz3f1r06syl8trwq/3-INXS-devil-inside-instru.mp3?rlkey=gl8gb7t5tgmwpofp66otbyhol&st=7iut80pf&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/8h5ta8mrbkj9bj8c76kzg/4-Love-triangle-instru.mp3?rlkey=q19fc9zfmo4rtq016wj1wd33u&st=anlez57c&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/uvzkcifz8a3ln1hfvda39/5-MARS-pump-up-the-volume-instru.mp3?rlkey=rg712d6ba18xdldpzztwipimh&st=aqc3o94y&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/763tbmnfi4dcb4yymidrl/6-INXS-Need-you-tonight-voix.mp3?rlkey=e8fedbtoo1dz1voa5dtdgyd1r&st=ddmobgkx&dl=0',
+    'https://dl.dropboxusercontent.com/scl/fi/ayqozqtca8x1v21xaw7fk/7-Eddie-Murphy-Party-all-the-time-voix.mp3?rlkey=1rzalazc4lhloghykva57nim5&st=2t3wm98e&dl=0',
+  ];
 
   const transformText = textContent => {
     return textContent
@@ -61,7 +62,7 @@ function Home() {
       <div className="bodyMain">
         <div className="menu">
           <p>menu</p>
-          <audio ref={audioRef} id="audio" src={songs[currentSong]}></audio>
+          <audio ref={audioRef} id="audio" src={songsUrl[currentSong - 1]}></audio>
           <Volume fullVolume={fullVolume} setFullVolume={setFullVolume} />
           {/* <p>{Math.round(intVolume)}</p>
                 <p>{isAnimating ? "true": "false"}</p> */}
