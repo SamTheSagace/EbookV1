@@ -59,9 +59,8 @@ export default function useAudio() {
     };
 
     const changeMusic = (endVolume, startVolume) =>{
-        console.log("change")
         if(audioRef.current){
-            console.log(endVolume[1])
+            // console.log(endVolume[1])
             stopMusic(endVolume)
             setTimeout(() => 
                 playMusic(startVolume), Number(endVolume[1])*1000);   

@@ -7,10 +7,8 @@ export default function useAnimation(book) {
 
     function nextPage() {
         const currentLastParagraph =book[currentPage].length - 1;
-        console.log(currentIndex)
-        console.log(currentLastParagraph)
         if (currentIndex > currentLastParagraph) {
-            console.log("nextpageSwitch")
+            // console.log("nextpageSwitch")
             stop()
             if (currentPage < book.length - 1) {
                 setCurrentPage((c) => c + 1);
@@ -20,17 +18,17 @@ export default function useAnimation(book) {
             }
         }
         else{
-            console.log("not the last paragraph")
+            // console.log("not the last paragraph")
             setIsAnimating(true)
         }
     }
     function start(){
-        console.log("start")
+        // console.log("start")
         setIsAnimating(true)
     }
 
     function stop() {
-        console.log("stop")
+        // console.log("stop")
         setIsAnimating(false);
         setCurrentIndex((c) => c + 1);
     }
