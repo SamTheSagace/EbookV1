@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef } from 'react';
-import './Textanim.scss';
+import { useState, useEffect, useRef } from "react";
+import "./Textanim.scss";
 
 function Textanim({
   id,
@@ -21,14 +21,14 @@ function Textanim({
   const textArray = Array.from(text);
   const limit = textArray.length;
   const [index, setIndex] = useState(0);
-  const interval = useRef('');
+  const interval = useRef("");
   const initialized = useRef(false);
 
   useEffect(() => {
     if (!isCurrent) return;
     setIndex(0);
     const blocText = document.getElementById(`paragraph${id}`);
-    blocText.innerHTML = '';
+    blocText.innerHTML = "";
     if (isAnimating && !interval.current) {
       // console.log('start', isCurrent, index, textArray);)
       if (isCurrent) {
@@ -45,7 +45,7 @@ function Textanim({
         if (!initialized.current) {
           initialized.current = true;
           interval.current = setInterval(() => {
-            setIndex(prevIndex => {
+            setIndex((prevIndex) => {
               if (!isAnimating) {
                 clearInterval(interval.current);
                 interval.current = null;
@@ -65,7 +65,7 @@ function Textanim({
                 if (chapter) {
                   const el = document.getElementById(`paragraph${id}`);
                   setTimeout(() => {
-                    el.classList.add('animated');
+                    el.classList.add("animated");
                   }, 400);
                   setTimeout(stop, 400);
                 } else {
@@ -92,8 +92,11 @@ function Textanim({
 
   return (
     <>
-      <div className={chapter ? 'center' : 'text'}>
-        <p id={`paragraph${id}`} className={chapter ? 'chapter' : 'paragraph'}></p>
+      <div className={chapter ? "center" : "text"}>
+        <p
+          id={`paragraph${id}`}
+          className={chapter ? "chapter" : "paragraph"}
+        ></p>
       </div>
     </>
   );

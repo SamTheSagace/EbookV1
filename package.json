@@ -16,7 +16,9 @@
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-player": "^3.4.0",
     "react-router-dom": "^7.1.1",
+    "react-youtube": "^10.1.0",
     "sass": "^1.83.4",
     "scss": "^0.2.4"
   },

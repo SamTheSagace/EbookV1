@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 body{
+    .test iframe {
+        width: 0;
+        height: 0;
+    }
     all: unset;
     span{
         color: white;
